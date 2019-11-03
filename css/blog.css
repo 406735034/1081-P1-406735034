@@ -1,0 +1,25 @@
+.post {
+    width: 80%;
+    margin: 20px auto;
+    border: 20px solid #dce1e4;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.date {
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: #2e8ac7;
+    
+}
+
+h2{
+    font-size: 2em;
+    font-weight: bold;
+    color: #374c60;
+}
+
+.quote{
+    border-left: 5px solid #bdc3c7;
+    padding-left: 8px;
+}
